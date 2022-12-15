@@ -1,6 +1,6 @@
 # Welcome
 ### I'm Achyut from India
-#### Student | Competitive programming | Web Dev | Art
+#### Student | CP | Web Dev | Art
 
 ![](https://komarev.com/ghpvc/?username=minormist&color=red)
 
