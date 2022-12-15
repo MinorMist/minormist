@@ -8,7 +8,7 @@
 
 <div>
 ![](https://github.com/minormist/minormist/img/gojo.gif)
-<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="300px" height="195px" src="https://github.com/MinorMist/minormist/tree/main/img/gojo.gif" />
+<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="300px" height="195px" src="https://www.gifcen.com/gojo-gif-9-2/#gojo-gif" />
 <p align="center" >
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=minormist&&show_icons=true&theme=dark"/>
