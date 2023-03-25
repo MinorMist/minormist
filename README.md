@@ -1,13 +1,19 @@
 # Hi There, Welcome
 <img src="https://github.com/MinorMist/minormist/blob/main/img/lofi.gif" width="25%" height="25%" style="height: 300px;
     overflow: scroll;" align="right"/>
+    
 ### I'm Achyut M Sharma
-#### Student at Amrita - Amritapuri, India
-#### Loves to code and solve CP Qs
-#### Aspiring Web Dev and Artist
+Student at Amrita - Amritapuri, India
+
+Loves to code and solve CP Qs
+
+Aspiring Web Dev and Artist
+
 ![](https://komarev.com/ghpvc/?username=minormist&color=red)
 
+
 [![Main page](https://holopin.me/minormist)](https://holopin.io/@minormist)
+
 
 <div>
 <p align="center" >
