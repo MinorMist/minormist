@@ -1,6 +1,8 @@
 # Welcome
 ### I'm Achyut from India
-#### Student | CP | Web Dev | Art
+#### Student at Amrita - Amritapuri
+#### Loves to code and solve CP Qs
+#### Aspiring Web Dev and Artist
 
 ![](https://komarev.com/ghpvc/?username=minormist&color=red)
 
