@@ -1,8 +1,11 @@
+<img src="https://github.com/MinorMist/minormist/blob/main/img/lofi.gif" width="25%" height="25%" style="height: 300px;
+    overflow: scroll;" align="right"/>
 # Welcome
-### I'm Achyut from India
-#### Student at Amrita - Amritapuri
+### I'm Achyut M Sharma
+#### Student at Amrita - Amritapuri, India
 #### Loves to code and solve CP Qs
 #### Aspiring Web Dev and Artist
+
 
 ![](https://komarev.com/ghpvc/?username=minormist&color=red)
 
@@ -19,3 +22,5 @@
 MinorMist/MinorMist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+https://github.com/MinorMist/minormist/blob/main/img/lofi.gif
