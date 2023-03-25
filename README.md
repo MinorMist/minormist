@@ -1,4 +1,4 @@
-# Hi There, Welcome
+# Hi There, Welcome 😊
 <img src="https://github.com/MinorMist/minormist/blob/main/img/lofi.gif" width="25%" height="25%" style="height: 300px;
     overflow: scroll;" align="right"/>
     
